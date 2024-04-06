@@ -1,5 +1,4 @@
 <p align="center"> I am Lucas Andrade👋<br><br>
-  FullStack Developer. <br><br>
 
 I am passionate about programming, with a special fondness for Javascript, NodeJs, React, Python, Flask, and PostgreSQL integration. I have experience and interest in both frontend and backend development.
 
@@ -66,7 +65,7 @@ I thrive on challenges and am always seeking opportunities to learn and improve 
 ## Contacts:
 
 <div> 
-<a href="https://www.linkedin.com/in/lucas-andraade/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://www.instagram.com/luucss3?igsh=cnRpY3NzZmE4dzls" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href = "mailto:lucas.developer10o@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lucas-andraade/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
