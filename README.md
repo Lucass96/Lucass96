@@ -14,7 +14,11 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div><br/><br/>
 
+![Lucass96 GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucass96&show_icons=true&theme=dracula)<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucass96&langs_count=8)](https://github.com/Lucass96/github-readme-stats)
+
+
 Desenvolvedor Fullstack, sou apaixonado por programação e tenho um carinho especial por Javascript, NodeJs, React, Python, Flask e a integração com PostgreSQL. Tenho interesse tanto para o desenvolvimento frontend quanto para o backend. Adoro enfrentar desafios e estou sempre em busca de oportunidades para aprender e me aprimorar constantemente.
 Movido por conhecimento, procuro frequentemente solidar meus conhecimentos e buscar sempre mais para que eu possa estar em constante evolução e me tornar um profissional cada vez melhor.
 
-![Lucass96 GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucass96&show_icons=true&theme=dracula)
